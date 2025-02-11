@@ -14,3 +14,5 @@ rancher-monitoring:
   - 105.1.3-rc.1+up61.3.2
 rancher-monitoring-crd:
   - 105.1.3-rc.1+up61.3.2
+rancher-csp-adapter:
+  - 105.0.1+up5.0.2-rc3
