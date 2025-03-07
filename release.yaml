@@ -46,3 +46,5 @@ rancher-gke-operator:
   - 105.3.0+up1.10.3-rc.1
 rancher-gke-operator-crd:
   - 105.3.0+up1.10.3-rc.1
+rancher-csp-adapater:
+  - 106.0.0+up6.0.0-rc1
