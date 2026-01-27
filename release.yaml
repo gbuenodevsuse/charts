@@ -66,3 +66,5 @@ rancher-webhook:
   - 108.0.0+up0.9.0-rc.4
 remotedialer-proxy:
   - 109.0.0+up0.7.0-rc.4
+rancher-csp-adapter:
+  - 109.0.0+up9.0.0-rc.2
